@@ -25,7 +25,7 @@ class SearchBar extends Component {
 
   render() {
     return (
-      <div style={{ marginTop: 15 }}>
+      <div>
         <form
           className='input-group'
           onSubmit={this.onFormSubmit}

@@ -12,7 +12,7 @@ Checkout this repo, install dependencies, then start the process with the follow
 
 ## It consists of following sample project
 
-- Weather Forecast browser - react, redux, making async calls using axios, react-sparklines for graphs, using - https://home.openweathermap.org/
+- Weather Forecast browser - react, redux, making async calls using axios, react-sparklines for graphs, google maps API integration, using - https://home.openweathermap.org/
 - Currently it defaults to US cities, search for any US cities to load the temperature, pressure, and humidity chart for last 5 days.
 - Application can be customised to load the map for any country by passing contry code to the API
 
